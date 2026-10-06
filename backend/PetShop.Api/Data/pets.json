@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d7a5fd33-dab8-4e80-9e7a-6f8b6c9d8b4e",
+    "name": "Milo",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "age": 2,
+    "price": 850,
+    "stock": 1,
+    "createdAtUtc": "2026-10-06T11:14:19.3807925Z",
+    "updatedAtUtc": "2026-10-06T11:14:19.3807925Z"
+  },
+  {
+    "id": "fb8ce60e-e1f5-4fe4-b758-abd66fe8d805",
+    "name": "Luna",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "age": 1,
+    "price": 600,
+    "stock": 2,
+    "createdAtUtc": "2026-10-06T11:14:19.3807925Z",
+    "updatedAtUtc": "2026-10-06T11:14:19.3807925Z"
+  },
+  {
+    "id": "044a12ac-b818-4d94-bbb2-b585f1584886",
+    "name": "Kiwi",
+    "species": "Bird",
+    "breed": "Cockatiel",
+    "age": 1,
+    "price": 140,
+    "stock": 4,
+    "createdAtUtc": "2026-10-06T11:14:19.3807925Z",
+    "updatedAtUtc": "2026-10-06T11:14:19.3807925Z"
+  }
+]

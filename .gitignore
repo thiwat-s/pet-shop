@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+.vs/
+.vscode/
+*.user
+*.suo
+frontend/.env.local
+backend/PetShop.Api/appsettings.Local.json
